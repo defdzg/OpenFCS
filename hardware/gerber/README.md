@@ -1,0 +1,1 @@
+# Gerber files for printed circuit boards (PCB) production
