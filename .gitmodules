@@ -1,0 +1,3 @@
+[submodule "firmware/OpenOCC-Mega2560"]
+	path = firmware/OpenOCC-Mega2560
+	url = git@github.com:defdzg/OpenOCC-Mega2560.git
